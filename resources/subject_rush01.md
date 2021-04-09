@@ -6,7 +6,7 @@ Rush   - 01 -   O. F. C.
 ---
 
 
-![Gman.webp](../_resources/15aaee7b7dca4f32b553235be102af92.webp)
+![Gman.webp](./_resources/15aaee7b7dca4f32b553235be102af92.webp)
 
 
 
@@ -211,7 +211,7 @@ Lequel choisir...
 
 
 
-![thumb-1920-899975.jpg](../_resources/6bd58d40d3ad45bab274ea83aa6c38c1.jpg)
+![thumb-1920-899975.jpg](./_resources/6bd58d40d3ad45bab274ea83aa6c38c1.jpg)
 
 
 
@@ -274,4 +274,4 @@ Exemple de map à print :
 
 # *et vous aurez du gâteau :)*
 
-![portal-cake.jpg](../_resources/4c07d90a06304bd7a1d2d7e9eeb17b95.jpg)
+![portal-cake.jpg](./_resources/4c07d90a06304bd7a1d2d7e9eeb17b95.jpg)
