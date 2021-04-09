@@ -1,5 +1,19 @@
 # rush-01
 
+---
+
+### Poser des questions et se retrouver:
+
+---
+
+Vous avez deux channels sur ***Discord*** :
+- **ama-rush01** : pour centraliser les questions sur le Rush.
+- **general-rush01** : pour toute discussions entre étudiants/participants sur le Rush.
+
+Rappel : _pas de flood et on reste correct._
+
+---
+
 ### Petites précisions et règles de bon sens:
 
 ---
