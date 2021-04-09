@@ -1,5 +1,7 @@
 # rush-01
 
+#### Le sujet est disponible dans le repo. Vous pouvez aussi utiliser les différents .md présents.
+
 ---
 
 ### Poser des questions et se retrouver:
