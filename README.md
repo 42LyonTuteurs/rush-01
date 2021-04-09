@@ -2,6 +2,9 @@
 
 #### Le sujet est disponible dans le repo. Vous pouvez aussi utiliser les différents .md présents.
 
+
+### Telechargez le Dockerfile present dans le repository.
+
 ---
 
 ### Poser des questions et se retrouver:
@@ -28,7 +31,7 @@ Il est **interdit de copier** le code d'un autre groupe, même avec l'accord dud
 
 **Pas de panique** : Rien de bien sorcier n'est demandé. Vous avez tous utilisé les principes nécessaires à la bonne réalisation du Rush.
 
-**Un Dockerfile** sera présent dans le dossier de rendu. C'est normal, il servira à tester la compilation de votre code.
+**Un Dockerfile** sera présent dans le dossier de rendu. C'est normal, il vous servira a tester la compilation de votre code.
 
 Si vous voulez des conseils en **Makefile**, pensez à demander aux tuteurs, ou sinon (en cas d'extrême pénurie de tuteurs) à `guhernan` . Rappelez-vous de ces addages :
 
@@ -44,7 +47,9 @@ Si vous voulez des conseils en **Makefile**, pensez à demander aux tuteurs, ou 
 
 # Dockerfile :
 
-Un Dockerfile a été fourni pour pouvoir tester l'**exécution** et la **compilation** de votre code dans le **même environnement** que la *moulinette custom*.
+Telechargez le Dockerfile present dans le repository.
+
+Un Dockerfile est fourni ici pour pouvoir tester l'**exécution** et la **compilation** de votre code dans le **même environnement** que la *moulinette custom*.
 **Vous devez vous assurer que votre code compile sous cet environnement.** Sinon, vous vous exposer à une erreur et votre travail sera considéré comme faux.
 
 Lancer le Docker à la **racine** de votre projet.
