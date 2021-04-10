@@ -4,7 +4,7 @@ subject_rush01
 
 * * *
 
-![Gman.webp](./_resources/15aaee7b7dca4f32b553235be102af92.webp)
+![Gman.webp](../_resources/15aaee7b7dca4f32b553235be102af92.webp)
 
 * * *
 
@@ -366,7 +366,7 @@ Lequel choisir...
 
 > *Alors que Dédé et Pormanove s'apprêtent à transformer Puff Dadie en gâteau pour Glados, le groupe va devoir décider quel est le plus grand terrain disponible pour s'installer. Et ce, dans le calme et la bonne humeur.*
 
-![thumb-1920-899975.jpg](./_resources/6bd58d40d3ad45bab274ea83aa6c38c1.jpg)
+![thumb-1920-899975.jpg](../_resources/6bd58d40d3ad45bab274ea83aa6c38c1.jpg)
 
 
 ## Instructions
@@ -434,7 +434,7 @@ Exemple de map à print :
 > **`tmp`** : *Si vous souhaitez ajouter d'autres fichiers au repo sans que ceux-ci soient corrigés/compilés/normés (des maps de test perso par exemple), vous devrez les placer dans un dossier `tmp/` placé à la racine de votre repo.
 > Ce dernier sera supprimé lors des tests de la moulinette.*
 
-**Noms de _dossiers_ conseillés** : `includes ; srcs ; Makefile ; libft`
+**Noms de _dossiers_ conseillés** : `includes ; srcs ; libft`
 
 **Noms de _fichiers_ conseillés** : `rush` (executable) ; 
 
@@ -491,4 +491,4 @@ login_2
 
 ## Ayez l'algorithme le plus rapide, *et vous aurez du **gâteau** :)*
 
-![portal-cake.jpg](./_resources/4c07d90a06304bd7a1d2d7e9eeb17b95.jpg)
+![portal-cake.jpg](../_resources/4c07d90a06304bd7a1d2d7e9eeb17b95.jpg)
