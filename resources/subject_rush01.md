@@ -1,21 +1,18 @@
-Rush   - 01 -   O. F. C.
-
+subject_rush01
 
 ## Introduction
 
----
-
+* * *
 
 ![Gman.webp](./_resources/15aaee7b7dca4f32b553235be102af92.webp)
 
+* * *
 
-
----
 ### *-Point insertion-*
 
 **G-man** \- "*Rise and shine Mr. Freeman, rise and shine. Not that I wish to imply that you have been sleeping on the job. No one is more deserving of a rest than you.*
 
-*And all the effort in the world would have gone to waste until.... Well lets just say your hour has come again. The right man in the wrong place can make all the difference in the world. So wake up Mr. Freeman, wake up and smell the ashes.*
+*And all the effort in the world would have gone to waste until.... Well lets just say your hour has come again. The right man at the wrong place can make all the difference in the world. So wake up Mr. Freeman, wake up and smell the ashes.*
 
 > *(The g-man slowly fades away into the background and his image is replaced with the viewpoint of Gordon Freeman on a train pulling into a station)*
 
@@ -24,7 +21,7 @@ Rush   - 01 -   O. F. C.
 **Alyx** \- *Oh my god, the portal is opening!*
 **Dr. Breen** \- *I hope you have said your farewells.*
 
-> *(Gordon uses the gravity gun to shoot the energy balls into the portal)*
+> *(Gordon uses the gravity gun to shoot the energy orbes into the portal)*
 
 **Dr. Breen** \- *Go back Freeman, you have no idea what you are doing!*
 
@@ -35,23 +32,23 @@ Rush   - 01 -   O. F. C.
 
 > *(The shield covering the control room shuts off and Alyx steps out)*
 
-**Alyx** \- *Yeah! You did it! Come on Gordon we have got to get out of here, maybe we still have...*
+**Alyx** \- *Yeah! You did it! Come on Gordon, we have got to get out of here, maybe we still have...*
 
 > *(The portal collapses and explodes, time begins to slow down and a Mysterious man in a black suit slowly appears...)*
 
-**G-man** \- *Time? Dr. Freeman? Is it really that time again? It seems as if you only just arrived. You have done a great deal in a small timespan. You have done so well that I have received some interesting offers for your services.* *Ordinarily I would not contemplate them, but these are extraordinary times.*
+**G-man** \- *Time? Dr. Freeman? Is it really that time again? It seems as if you only just arrived. You have done a great deal in a small timespan. You have done so well, in fact that I have received some interesting offers for your services.* *Ordinarily I would not contemplate them, but these are extraordinary times.*
 
-*Rather than offer you the illusion of free choice, I will take the liberty of choosing for you. If and when the time comes again.*
+*Rather than offer you the illusion of free choice, I will take the liberty to choosing for you. If and when your time comes round again.*
 
-> *(The background begins to fade away into black, a greenish light appears)*
+> *(The background begins to fade to black, a greenish light appears)*
 
 **G-man** \- *I do apologize for what must seem to you an arbitrary imposition, Dr. Freeman, I trust it will all make sense in the course of.. well.. I am really not at liberty to say.*
 
-> *(The background becomes a black tunnel with white strands of light flying by)*
+> *(The background turns to a black tunnel with white strands of light flying by)*
 
 **G-man** \- *In the meantime, this is where I get off.*
 
-> *(A door slides open in the air and the Mysterious man steps in and the door shuts behind him ...
+> *(A door slides open in the air, the Mysterious man steps in and the door shuts behind him ...
 > ... and the credits roll)*
 
 ***[Half Life 2 - Episode One](https://gamefaqs.gamespot.com/pc/914642-half-life-2/faqs/38075 "hlf2.exe")***
@@ -59,35 +56,194 @@ Rush   - 01 -   O. F. C.
 * * *
 
 * * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+***
+***
+
+### Petites précisions et règles de bon sens:
+
 ---
+
+*La moulinette a un **timeout** sur le temps de clonage, ne vous amusez pas à mettre des fichiers trop lourds dedans.*
+
+*Il est **interdit de copier** le code d'un autre groupe, même avec l'accord dudit copié. On prête ses idées, pas son code.*
+
+***On regardera votre code** : cela permettra d'éviter la triche mais aussi de documenter les techniques et d'apprendre des choses, pour ensuite les partager.*
+
+***Pas de panique*** : _Rien de bien sorcier n'est demandé. Vous avez tous utilisé les principes nécessaires à la bonne réalisation du Rush._
+
+***Un Dockerfile*** _sera présent dans le dossier de rendu. Il vous sert à tester la compilation de votre code._
+
+*Si vous voulez des conseils en **Makefile**, pensez à demander aux tuteurs, ou sinon (en cas d'extrême pénurie de tuteurs) à* `guhernan` . *Rappelez-vous de ces addages :*
+
+> *Un Makefile dégueulasse, c'est vraiment pas la classe.*
+
+> *Si tu fais un code pas folichon, on te prendra pour un couillon.*
+
 ---
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
+
+*Pensez au fichier `auteurs` !*
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+*S'il vous plaît, respectez notre travail.*
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
 
 # **O** *(nly)* **F** *(ucking)* **C** *(ube)*
 
@@ -104,7 +260,11 @@ Lequel choisir...
 
 * * *
 
+* * *
+
 ## Des instructions interminables
+
+* * *
 
 ### *Au moment de s'installer pour passer la nuit, la tension monte au sein du groupe :*
 
@@ -118,17 +278,17 @@ Lequel choisir...
 
 > *Bernard planta sa pelle d'un coup sec et se redressa.*
 
-**Bernard Dédé** :  _Ça suffit de piailler dans mon dos ?! Continuez à me casser les c******* et c'est ma p***** de p**** qui va se retrouver dans votre g**** !_
+**Bernard Dédé** :  *Ça suffit de piailler dans mon dos ?! Continuez à me casser les c*\*\*\*\*\*\* et c'est ma p***** de p**** qui va se retrouver dans votre g**** !*
 
 > *Un cri se fit entendre au loin, suivi d'une explosion.*
 
 **J-B Lesc'O'tsh** : *Laisse couler Dédé, occupes-toi plutôt de creuser, ce sont nos vies qui sont en danger...*
 
-**Bernard Dédé** : _Mais creuser où et comment ?? Arrêtez de vous f*\*\*\*\*\* de ma p***** de g***** ! On sait même pas où ce f*** de p*-_
+**Bernard Dédé** : *Mais creuser où et comment ?? Arrêtez de vous f*\*\*\*\*\* de ma p***** de g***** ! On sait même pas où ce f*** de p*-*
 
 > *Pomanove le coupa*
 
-**Jean Pormanove** : _Tiens, prends les infos qu'Abil à pu choper en chemin. C'est toujours ça. Il m'avait dit que ça nous permettait de déduire la superficie et l'organisation de l'île._
+**Jean Pormanove** : *Tiens, prends les infos qu'Abil a pu choper en chemin. C'est toujours ça. Il m'avait dit que ça nous permettait de déduire la superficie et l'organisation de l'île.*
 
 **Bernard Dédé** :  *Habile ...*
 
@@ -206,29 +366,21 @@ Lequel choisir...
 
 > *Alors que Dédé et Pormanove s'apprêtent à transformer Puff Dadie en gâteau pour Glados, le groupe va devoir décider quel est le plus grand terrain disponible pour s'installer. Et ce, dans le calme et la bonne humeur.*
 
-
-
-
-
-
 ![thumb-1920-899975.jpg](./_resources/6bd58d40d3ad45bab274ea83aa6c38c1.jpg)
-
-
 
 
 ## Instructions
 
-_Votre mission, si vous l'acceptez, est de **construire le plus grand camp carré** sur l'île._
+*Votre mission, si vous l'acceptez, est de **construire le plus grand camp carré** sur l'île.*
 
-_Chaque chiffre correspond à un **niveau**, et l'ensemble représente l'élévation de l'île. Bien entendu, votre camp ne peut être installé que sur un seul niveau à la fois..._
+*Chaque chiffre correspond à un **niveau**, et l'ensemble représente l'élévation de l'île. Bien entendu, votre camp ne peut être installé que sur un seul niveau à la fois...*
 
-_Une **moulinette custom** testera le code disponible sur votre repo' GitHub, et ce deux fois par jour._
+*Une **moulinette custom** testera le code disponible sur votre repo' GitHub, et ce deux fois par jour. Elle nous permettra de dire si votre programme arrive à trouver la solution, et en combien de temps le problème a été résolu.*
 
-_Notre batterie de test permettra de dire si votre programme arrive à trouver la solution, et en combien de temps le problème a été résolu._
+*Toute map fournie doit être considérée comme valide.*
 
-_Toute map fournie doit être considérée comme valide._
-
-_Vous devrez print la map sur la sortie standard avec votre camp installé._
+*Vous **lirez** la map depuis la **sortie standard**, donc pas besoin d'utiliser* `open()`.
+*Vous devrez **print** la map sur la **sortie standard** avec votre camp installé.*
 
 Exemple de map :
 
@@ -248,6 +400,7 @@ Exemple de map :
 044444444444
 000000000000
 ```
+
 Exemple de map à print :
 
 ```Unknown2
@@ -265,13 +418,77 @@ Exemple de map à print :
 000000000000
 ```
 
+* * *
+# Règles générales
+
+**Votre programme doit être écrit en langage C** _(sorry :) )_
+
+**Flags && Compilation** : Tout flag d'optimisation ( `-O3`, `-march=native`, `-fno-stack-protector`...) est interdit. *Votre projet doit compiler avec* `-Wall -Wextra -Werror`.
+
+**Fonctions autorisées** : `read`, `write`, `malloc` _et_ `free`.
+
+**Fichiers autorisés** : `Makefile` , `auteurs` , `Dockerfile` , `*.c` , `*.h` , `.git*`.
+
+**Dossiers autorisés** : `*/*` . *Pour les fichiers temporaires : `tmp` .*
+
+> **`tmp`** : *Si vous souhaitez ajouter d'autres fichiers au repo sans que ceux-ci soient corrigés/compilés/normés (des maps de test perso par exemple), vous devrez les placer dans un dossier `tmp/` placé à la racine de votre repo.
+> Ce dernier sera supprimé lors des tests de la moulinette.*
+
+**Noms de _dossiers_ conseillés** : `includes ; srcs ; Makefile ; libft`
+
+**Noms de _fichiers_ conseillés** : `rush` (executable) ; 
+
+**Norme :** Votre rendu doit être à la Norme actuelle (**he he he**).
+Cela nous permettra de pouvoir ***lire*** votre code, d'éviter la triche et les glitches.
+
+**Makefile** : Le Makefile doit contenir les règles habituelles:  `all` , `clean` , `fclean` , `re`.
+Vous devez déclarer une variable `$(NAME)` contenant le nom de l'executable, tel que : `NAME = nom_de_lexecutable`
+Vous devez déclarer une variable `$(CC)` contenant le nom du compilateur (ici gcc), tel que :  `CC = gcc`
+Exemple d'instructions de compilation :
+`$(CC) $(CFLAGS) $(NAME)`
 
 ---
 
+Le fichier `auteurs` doit contenir les logins des participants tels que :
+
+```Unknown
+login_1
+login_2
+```
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
 
 
-## Ayez l'algorythme le plus rapide,
 
-# *et vous aurez du gâteau :)*
+## Ayez l'algorithme le plus rapide, *et vous aurez du **gâteau** :)*
 
 ![portal-cake.jpg](./_resources/4c07d90a06304bd7a1d2d7e9eeb17b95.jpg)
