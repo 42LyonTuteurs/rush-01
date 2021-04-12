@@ -18,10 +18,12 @@ COPY ./Makefile .
 
 COPY ./libft/ ./libft/.
 
-RUN make re
+COPY ./tmp/. ./tmp/.
 
-ARG arg
+RUN make re && make fclean && make
 
-RUN $arg | ./rush
+ARG NAME
+
+RUN cat $NAME | ./rush
 
 CMD /bin/bash
